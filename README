@@ -1,1 +1,3 @@
 My files from doing Project Euler. A lot of the Python files are several years old so might be poor attempts or style. Some files have been lost sadly.
+
+Python solutions were never revised after completion so are pretty "uncut". Ruby solutions up to ~#30 were me redoing previously solved questions to attempt to find proper Ruby-like solutions.
